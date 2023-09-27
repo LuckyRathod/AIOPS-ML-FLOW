@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/mlflow-basics/mlruns/0/6068f6131abc4f769b7d5b749f1d7c33/artifacts
+end_time: 1695790730363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6068f6131abc4f769b7d5b749f1d7c33
+run_name: blushing-eel-266
+run_uuid: 6068f6131abc4f769b7d5b749f1d7c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695790730355
+status: 3
+tags: []
+user_id: mfho-27019739

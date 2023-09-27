@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/mlflow-basics/mlruns/0/b73bd0f0a5cc42bb82f42bb2f857762f/artifacts
+end_time: 1695790610732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b73bd0f0a5cc42bb82f42bb2f857762f
+run_name: defiant-goose-201
+run_uuid: b73bd0f0a5cc42bb82f42bb2f857762f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695790610724
+status: 3
+tags: []
+user_id: mfho-27019739
