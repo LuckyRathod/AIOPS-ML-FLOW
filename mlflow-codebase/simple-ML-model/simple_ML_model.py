@@ -12,7 +12,7 @@ import mlflow.sklearn
 
 
 def get_data():
-    URL = "http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv"
+    URL = "/Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-Pipeline-C1/others/data_set/winequality-red.csv"
 
     try:
         df = pd.read_csv(URL, sep=";")

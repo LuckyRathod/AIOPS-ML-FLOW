@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/d7e8ef96c37142d28b2f410e9039d50c/artifacts
+end_time: 1696137927407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7e8ef96c37142d28b2f410e9039d50c
+run_name: hilarious-seal-905
+run_uuid: d7e8ef96c37142d28b2f410e9039d50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137925949
+status: 3
+tags: []
+user_id: mfho-27019739

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/18ff7a38ae204e1c99e823a9d76bb2ba/artifacts
+end_time: 1696137976690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18ff7a38ae204e1c99e823a9d76bb2ba
+run_name: wistful-ant-30
+run_uuid: 18ff7a38ae204e1c99e823a9d76bb2ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137975309
+status: 3
+tags: []
+user_id: mfho-27019739

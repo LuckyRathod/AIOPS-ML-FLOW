@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/844e3b0934064f9e9126be85f4ad136a/artifacts
+end_time: 1696137960085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 844e3b0934064f9e9126be85f4ad136a
+run_name: overjoyed-snipe-524
+run_uuid: 844e3b0934064f9e9126be85f4ad136a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137958680
+status: 3
+tags: []
+user_id: mfho-27019739

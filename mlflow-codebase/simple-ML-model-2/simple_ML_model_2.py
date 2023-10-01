@@ -12,7 +12,7 @@ import mlflow.sklearn
 
 
 def get_data():
-    URL = "http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv"
+    URL = "/Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-Pipeline-C1/others/data_set/winequality-red.csv"
 
     try:
         df = pd.read_csv(URL, sep=";")
@@ -57,6 +57,7 @@ def main(alpha, l1_ratio):
         mlflow.log_metric("mae", mae)
         mlflow.log_metric("r2", r2)
 
+        ## We will log the complete model in mlflow
         mlflow.sklearn.log_model(lr, "model")
 
 

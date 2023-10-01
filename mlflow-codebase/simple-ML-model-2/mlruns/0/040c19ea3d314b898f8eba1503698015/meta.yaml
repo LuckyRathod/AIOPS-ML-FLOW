@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/040c19ea3d314b898f8eba1503698015/artifacts
+end_time: 1696137929853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 040c19ea3d314b898f8eba1503698015
+run_name: fearless-grouse-404
+run_uuid: 040c19ea3d314b898f8eba1503698015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137928345
+status: 3
+tags: []
+user_id: mfho-27019739

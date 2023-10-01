@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/29e6d523a1504113b9094dbc23e75dbc/artifacts
+end_time: 1696137932224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29e6d523a1504113b9094dbc23e75dbc
+run_name: able-yak-868
+run_uuid: 29e6d523a1504113b9094dbc23e75dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137930778
+status: 3
+tags: []
+user_id: mfho-27019739

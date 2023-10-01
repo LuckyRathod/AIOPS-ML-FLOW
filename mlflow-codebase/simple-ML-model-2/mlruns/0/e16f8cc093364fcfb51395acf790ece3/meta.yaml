@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/e16f8cc093364fcfb51395acf790ece3/artifacts
+end_time: 1696137952801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e16f8cc093364fcfb51395acf790ece3
+run_name: entertaining-cow-657
+run_uuid: e16f8cc093364fcfb51395acf790ece3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137951315
+status: 3
+tags: []
+user_id: mfho-27019739

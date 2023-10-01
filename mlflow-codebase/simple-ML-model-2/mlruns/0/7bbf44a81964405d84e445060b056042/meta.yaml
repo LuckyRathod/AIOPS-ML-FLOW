@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/7bbf44a81964405d84e445060b056042/artifacts
+end_time: 1696137920355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bbf44a81964405d84e445060b056042
+run_name: unequaled-hare-495
+run_uuid: 7bbf44a81964405d84e445060b056042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137918899
+status: 3
+tags: []
+user_id: mfho-27019739

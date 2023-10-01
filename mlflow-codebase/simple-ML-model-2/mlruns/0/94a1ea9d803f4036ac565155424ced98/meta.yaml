@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/94a1ea9d803f4036ac565155424ced98/artifacts
+end_time: 1696137945623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94a1ea9d803f4036ac565155424ced98
+run_name: defiant-mole-783
+run_uuid: 94a1ea9d803f4036ac565155424ced98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137944117
+status: 3
+tags: []
+user_id: mfho-27019739

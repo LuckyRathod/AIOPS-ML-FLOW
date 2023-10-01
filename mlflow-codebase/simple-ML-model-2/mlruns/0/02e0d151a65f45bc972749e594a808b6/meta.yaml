@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/02e0d151a65f45bc972749e594a808b6/artifacts
+end_time: 1696137938091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02e0d151a65f45bc972749e594a808b6
+run_name: secretive-pig-900
+run_uuid: 02e0d151a65f45bc972749e594a808b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137935533
+status: 3
+tags: []
+user_id: mfho-27019739

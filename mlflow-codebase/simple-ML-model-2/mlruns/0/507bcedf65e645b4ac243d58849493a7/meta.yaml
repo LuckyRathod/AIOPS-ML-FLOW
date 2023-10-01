@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mfho-27019739/Desktop/AIML/Github/AIOPS-ML-FLOW/mlflow-codebase/simple-ML-model-2/mlruns/0/507bcedf65e645b4ac243d58849493a7/artifacts
+end_time: 1696137974349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 507bcedf65e645b4ac243d58849493a7
+run_name: efficient-croc-749
+run_uuid: 507bcedf65e645b4ac243d58849493a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696137972921
+status: 3
+tags: []
+user_id: mfho-27019739
